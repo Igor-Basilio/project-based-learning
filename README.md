@@ -464,7 +464,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Deep Learning:
 
-- [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) *
+- [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/) * DONE *
 - [Generate an Average Face using Python and OpenCV](https://www.learnopencv.com/average-face-opencv-c-python-tutorial/)
 - [Break A Captcha System using CNNs](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
 - [Use pre-trained Inception model to provide image predictions](https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058)
